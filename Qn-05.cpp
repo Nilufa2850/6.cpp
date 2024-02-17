@@ -1,4 +1,5 @@
-/*Define a c++ function to calculate HCF of two numbers. */
+/*Define a c++ function to print all the prime factors of a given numbers.
+For example num=36 , prime factors are 2, 3 */
 
 #include<iostream>
 using namespace std ;
